@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57.625" height="56" viewBox="0 0 57.625 56">
+  <g id="illustration_inbox_56px" transform="translate(0.375)">
+    <g id="Gruppe_20921" data-name="Gruppe 20921" transform="translate(0.875 4.375)">
+      <g id="Gruppe_20920" data-name="Gruppe 20920">
+        <path id="Pfad_16408" data-name="Pfad 16408" d="M25.878,44.87v1.058a4.388,4.388,0,0,0,4.4,4.373h23.1L62.5,56.082,61.115,50.3h.038a4.387,4.387,0,0,0,4.4-4.373V25.959a4.386,4.386,0,0,0-4.4-4.373H60.015" transform="translate(-10.429 -8.832)" fill="none" stroke="#00a393" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+        <path id="Pfad_16409" data-name="Pfad 16409" d="M41.514.352H5.457A5.124,5.124,0,0,0,.317,5.46V28.08a5.124,5.124,0,0,0,5.14,5.108h.251L3.88,40.8l1.461-.926,10.545-6.682H41.514a5.124,5.124,0,0,0,5.14-5.108V5.46A5.124,5.124,0,0,0,41.514.352Z" transform="translate(-0.317 -0.352)" fill="none" stroke="#00a393" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+        <ellipse id="Ellipse_1859" data-name="Ellipse 1859" cx="2.627" cy="2.611" rx="2.627" ry="2.611" transform="translate(11.936 13.999)" fill="#00af9c"/>
+        <ellipse id="Ellipse_1860" data-name="Ellipse 1860" cx="2.627" cy="2.611" rx="2.627" ry="2.611" transform="translate(20.541 13.999)" fill="#00af9c"/>
+        <ellipse id="Ellipse_1861" data-name="Ellipse 1861" cx="2.627" cy="2.611" rx="2.627" ry="2.611" transform="translate(29.146 13.999)" fill="#00af9c"/>
+      </g>
+    </g>
+    <rect id="Rechteck_12096" data-name="Rechteck 12096" width="56" height="56" fill="none"/>
+  </g>
+</svg>

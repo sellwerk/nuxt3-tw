@@ -1,0 +1,9 @@
+<svg id="icon_check_circle_24px" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="help">
+    <rect id="Rectangle_818" data-name="Rectangle 818" width="64" height="64" fill="none"/>
+  </g>
+  <g id="info" transform="translate(5 5)">
+    <circle id="Ellipse_383" data-name="Ellipse 383" cx="27" cy="27" r="27" stroke-width="2.5" stroke="#00af9c" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path id="check" d="M25.333,6,10.667,20.667,4,14" transform="translate(13.667 14.333)" fill="none" stroke="#00af9c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="rechnung_icon_payment_32px" xmlns="http://www.w3.org/2000/svg" width="48" height="32" viewBox="0 0 48 32">
+  <g id="Rectangle_12006" data-name="Rectangle 12006" fill="#fff" stroke="#dae0e7" stroke-width="1">
+    <rect width="48" height="32" rx="4" stroke="none"/>
+    <rect x="0.5" y="0.5" width="47" height="31" rx="3.5" fill="none"/>
+  </g>
+  <text id="Rechnung" transform="translate(2 20)" fill="#3d4c5e" font-size="10" font-family="Barlow-Regular, Barlow"><tspan x="0" y="0">Rechnung</tspan></text>
+</svg>
